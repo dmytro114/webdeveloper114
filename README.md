@@ -4,14 +4,6 @@
 
 ##
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,;+Welcome+to+My+Profile!;Over+7+years+of+programming+experience;Always+learning+new+things+;Senior+Web+Developer+;Talented+Blockchain+developer;)](https://github.com/youaredev123)
-  
-[![FreakyCoder Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=wrathchaos&fire=eb1b0c&ring=eb1b0c&currStreakLabel=eb1b0c)]
-
-  
-[![FreakyCoder Github Stats](https://github-readme-stats.vercel.app/api?username=wrathchaos&show_icons=true&count_private=true&include_all_commits=true&title_color=eb1b0c&icon_color=eb1b0c)]
-  
-
 ## Connect with me
 
 [<img align="left" alt="Skype" src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" />](https://join.skype.com/invite/uwR1k7qIR5Bd)
